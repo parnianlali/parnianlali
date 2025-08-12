@@ -1,4 +1,4 @@
-![github-readme-stats vercel](https://github.com/user-attachments/assets/7bc39d5e-dce9-4809-8652-3cb8a266ef15)# 💫 About Me:
+💫 About Me:
 Hi, I'm Parnian<br>🔭 I’m currently working on python and machine learning projects<br>🌱 also i'm improving my skills in advanced Python, Machine learning, Data visualization, Data processing<br>📫 How to reach me parnian.lalii@gmail.com
 
 
@@ -11,6 +11,7 @@ Hi, I'm Parnian<br>🔭 I’m currently working on python and machine learning p
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnianLali&layout=donut)](https://github.com/ParnianLali/github-readme-stats)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
