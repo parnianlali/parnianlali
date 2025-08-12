@@ -12,4 +12,6 @@ Hi, I'm Parnian<br>🔭 I’m currently working on python and machine learning p
 ---
 [![](https://visitcount.itsvg.in/api?id=parnianlali&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
