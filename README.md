@@ -11,7 +11,8 @@ Hi, I'm Parnian<br>🔭 I’m currently working on python and machine learning p
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnianLali&layout=donut)](https://github.com/ParnianLali/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParnianLali&layout=donut&theme=dark&bg_color=000000)](https://github.com/ParnianLali/github-readme-stats)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
